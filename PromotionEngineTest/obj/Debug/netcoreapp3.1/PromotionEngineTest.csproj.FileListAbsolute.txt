@@ -1,0 +1,3 @@
+C:\Git-Test\PromotionEngineTest\obj\Debug\netcoreapp3.1\PromotionEngineTest.csprojAssemblyReference.cache
+C:\Git-Test\PromotionEngineTest\obj\Debug\netcoreapp3.1\PromotionEngineTest.AssemblyInfoInputs.cache
+C:\Git-Test\PromotionEngineTest\obj\Debug\netcoreapp3.1\PromotionEngineTest.AssemblyInfo.cs
