@@ -34,7 +34,7 @@ namespace PromotionEngine.BusinessLogic
                 else
                 {
                     var p1 = (c - 1) * Convert.ToDouble(SkuUnitPrice.C) + (d - 1) * Convert.ToDouble(SkuUnitPrice.D); //when C and D are more than 1 
-                    var p2 = Convert.ToDouble(PromotionConstants.CD);
+                    var p2 = Convert.ToDouble(PromotionConstants.CD); //C+D= 30
                     return p1 + p2;
                 }
 
