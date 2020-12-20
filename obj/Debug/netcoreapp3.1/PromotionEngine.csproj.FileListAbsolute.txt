@@ -1,0 +1,11 @@
+C:\Git-Test\SkuPromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.exe
+C:\Git-Test\SkuPromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.deps.json
+C:\Git-Test\SkuPromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.runtimeconfig.json
+C:\Git-Test\SkuPromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.runtimeconfig.dev.json
+C:\Git-Test\SkuPromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.dll
+C:\Git-Test\SkuPromotionEngine\bin\Debug\netcoreapp3.1\PromotionEngine.pdb
+C:\Git-Test\SkuPromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.csprojAssemblyReference.cache
+C:\Git-Test\SkuPromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.AssemblyInfoInputs.cache
+C:\Git-Test\SkuPromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.AssemblyInfo.cs
+C:\Git-Test\SkuPromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.dll
+C:\Git-Test\SkuPromotionEngine\obj\Debug\netcoreapp3.1\PromotionEngine.pdb

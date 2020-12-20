@@ -5,7 +5,7 @@ using System.Text;
 
 namespace PromotionEngine.BusinessLogic
 {
-    interface Ipromotion
+    public interface Ipromotion
     {
         double Promotion1(int a, int b);
         double Promotion2(int c, int d);

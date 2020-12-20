@@ -30,7 +30,7 @@ namespace PromotionEngine
             var program = new Program(priceCalculation);
 
             var total = _priceCalculation.GetTotalPrice(skulist);
-            Console.WriteLine(total);
+            Console.WriteLine("Total price of the Items added in the cart is :"+total);
 
             Console.ReadLine();
         }
